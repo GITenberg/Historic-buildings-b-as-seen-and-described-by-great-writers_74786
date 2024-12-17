@@ -1,0 +1,63 @@
+_repo: Historic-buildings-b-as-seen-and-described-by-great-writers_74786
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Singleton, Esther
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '7412'
+    url: http://www.gutenberg.org/2009/agents/7412
+description: ''
+gutenberg_issued: '2024-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74786'
+  lccn: 03027971
+language: en
+pgterms:marc904: https://archive.org/details/historicbuilding0000esth/page/n7/mode/2up
+pgterms:marc905: 20230724112248singleton
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: Karin Spence and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bDodd, Mead & Company, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture -- History'
+- !lcsh 'Art -- Study and teaching'
+- !lcsh 'Historic buildings'
+- !lcc 'NA'
+- GITenberg
+tableOfContents: The Jumma Musjid, Delhi, by G. W. Steevens -- San Donato, Murano,
+  by John Ruskin -- The Palace of the Popes, Avignon, by Charles Dickens -- The Church
+  of the Holy Sepulchre, Jerusalem, by Pierre Loti -- La Grande Chartreuse, by William
+  Beckford -- The Temples of Hatchiman, Kamakoura, by Aimé Humbert -- Cathedral Church
+  of Wells, by Edward Augustus Freeman -- The Coliseum, Rome, by Edward Gibbon --
+  The Coliseum, Rome, by Charles Dickens -- Golden Temple of the Sikhs, Lahore, by
+  G. W. Steevens -- The Giralda, Seville, by Théophile Gautier -- The Cathedral of
+  Monreale, by John Addington Symonds -- The Luxembourg Palace, Paris, by Augustus
+  J. C. Hare -- The Great Lama Temple, Pekin, by C. F. Gordon-Cumming -- Haddon Hall,
+  by John Leyland -- Cathedral of Palermo, by John Addington Symonds -- The Fortress
+  and Palace of Gwalior, by Louis Rousselet -- The Holy House of Loretto, by Arthur
+  Penrhyn Stanley -- The Alcazar of Seville, by Edmundo De Amicis -- The Tower of
+  Belem, Lisbon, by Arthur Shadwell Martin -- Venetian Palaces, by Théophile Gautier
+  -- Saint Ouen, Rouen, by L. de Fourcaud -- Carisbrooke Castle, Isle of Wight, by
+  Sir James D. Mackenzie -- The Pantheon, Rome, by Augustus J. C. Hare -- St. Laurence,
+  Nuremberg, by Linda Villari -- The Torre del Oro, Seville, by Edmundo De Amicis
+  -- Cathedral of Orvieto, by John Addington Symonds -- The Buildings of Shah Jehan,
+  Agra, by G. W. Steevens -- The Priory and Church of St. Bartholomew, London, by
+  Charles Knight -- Kutb Minar, Delhi, by G. W. Steevens -- Kutb Minar, Delhi, by
+  André Chévrillon -- Kenilworth Castle, by Sir James D. Mackenzie -- Santa Maria
+  Della Salute, Venice, by John Ruskin -- The ramparts of Carcassonne, by A. Molinier
+  -- The Cathedral of Modena, by Edward Augustus Freeman -- The Cathedral of Rheims,
+  by Louis Gonse -- The Castle of S. Angelo, Rome, by Augustus J. C. Hare -- Salisbury
+  Cathedral, by W. J. Loftie -- The Castle of Angers, by Henry Jouin -- The Pagoda
+  of Tanjore, by G. W. Steevens -- The Vendramin-Calergi, Venice, by Théophile Gautier
+  -- A visit to the Old Seraglio, Constantinople, by Pierre Loti -- The Duomo, Leaning
+  Tower, the Baptistery and the Campo-Santo, Pisa, by H. A. Taine -- Rochester Castle,
+  by Arthur Shadwell Martin -- Santa Croce, Florence, by John Ruskin -- The Certosa
+  of Pavia, by John Addington Symonds.
+title: 'Historic buildings : $b as seen and described by great writers'
+url: http://www.gutenberg.org/ebooks/74786
